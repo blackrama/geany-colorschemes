@@ -1,0 +1,2 @@
+# geany-colorschemes
+ok
