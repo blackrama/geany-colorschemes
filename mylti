@@ -3,7 +3,7 @@ name=mylti
 description=Mylti Geany color scheme with styles like the Geany <= 0.19 Python/script defaults with gray comments.
 version=0.01
 author=blackrama
-url=
+url=https://github.com/blackrama/geany-colorschemes.git
 
 [named_styles]
 
